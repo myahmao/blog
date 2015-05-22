@@ -6,9 +6,9 @@ AUTHOR = u'ahmao'
 SITENAME = u'\u4e0d\u6094\uff0c\u5c31\u662f\u4e0d\u6094'
 SITEURL = ''
 
-PATH = 'content'
+#PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Los_Angeles'
 
 DEFAULT_LANG = u'zh'
 
