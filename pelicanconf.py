@@ -35,7 +35,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 # Use bootstrap3 theme
 THEME = 'pelican-bootstrap3'
-FAVICON = 'images/favicon.ico'
+#FAVICON = 'images/favicon.ico'
 BOOTSTRAP_THEME = 'cosmo'
 DISPLAY_TAGS_ON_SIDEBAR = True
 DISPLAY_CATEGORIES_ON_SIDEBAR = True
