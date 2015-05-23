@@ -24,7 +24,6 @@ MD_EXTENSIONS = (['toc'])
 # Blogroll
 LINKS = None 
 
-SITEURL_FOR_DISQUS = 'http://myahmao.github.io/www'
 DISQUS_SITENAME = "ahmao"
 
 # Social widget
