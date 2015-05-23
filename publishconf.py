@@ -21,4 +21,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
+SITEURL_FOR_DISQUS = 'http://myahmao.github.io/www'
+DISQUS_SITENAME = "ahmao"
+
 #GOOGLE_ANALYTICS = ""
