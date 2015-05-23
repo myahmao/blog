@@ -19,13 +19,17 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+MD_EXTENSIONS = (['toc'])
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'))
+LINKS = None 
+
+DISQUS_SITENAME = 'ahmao'
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'))
+
+SOCIAL = (('FB Group(ValleyRain)', 'http://www.facebook.com/groups/ValleyRain'),
+          ('微信联系人(Tao)', 'http://weixin.qq.com/r/SH-27I3EjgDxrRmN9ypa'))
 
 DEFAULT_PAGINATION = 10
 
